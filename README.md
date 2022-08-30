@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Jesseekoh/404-Not-Found-Page">
+    <a href="https://github.com/Jesseekoh/404-Page-Not-Found">
       Solution
     </a>
     <span> | </span>
@@ -38,12 +38,8 @@
 
 ![screenshot](https://github.com/Jesseekoh/404-Page-Not-Found/blob/main/Screenshot%202022-08-30%20at%2015.41.14.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+My [404-page-not-found](https://jesseekoh-404pagenotfound.netlify.app/) was a nice challenge for me to try bringing a figma design to fruition. I learnt how to host a site online using netlify. I learnt some css tricks like how to keep the copyright text always at the bottom of the page even if the content is not up to that.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
